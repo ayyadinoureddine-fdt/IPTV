@@ -1,15 +1,6 @@
 #EXTM3U
 #PLAYLIST:Popular Morocco IPTV - CODECS.COM
 
-#EXTINF:-1 tvg-id="" tvg-name="AR| SPORT 01 4K" tvg-logo="http://103.176.90.154/picons/logos/bein/1806582.png" group-title="BEE| BEIN SPORTS",AR| SPORT 01 4K
-http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/2003810
-
-#EXTINF:-1 tvg-id="" tvg-name="AR| SPORT 01 FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/1806582.png" group-title="BEE| BEIN SPORTS",AR| SPORT 01 FHD
-http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/2003811
-
-#EXTINF:-1 tvg-id="" tvg-name="AR| SPORT 01 HD" tvg-logo="http://103.176.90.154/picons/logos/bein/1806582.png" group-title="BEE| BEIN SPORTS",AR| SPORT 01 HD
-http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/2003812
-
 #EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORT 4K [EVENT ONLY]" tvg-logo="http://103.176.90.154/picons/logos/PORTUGAL/BEIN-SPORT-4K.png" group-title="BEE| BEIN SPORTS",AR| BEIN SPORT 4K [EVENT ONLY]
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1851249
 
@@ -130,15 +121,6 @@ http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1806547
 #EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORT 01  EN" tvg-logo="http://103.176.90.154/picons/logos/bein/1806546.png" group-title="BEE| BEIN SPORTS",AR| BEIN SPORT 01  EN
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1806546
 
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORT XTRA 1 FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/1806545.png" group-title="BEE| BEIN SPORTS",AR| BEIN SPORT XTRA 1 FHD
-http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1806545
-
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORT XTRA 2 FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/1806544.png" group-title="BEE| BEIN SPORTS",AR| BEIN SPORT XTRA 2 FHD
-http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1806544
-
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORT XTRA 03 FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/1806543.png" group-title="BEE| BEIN SPORTS",AR| BEIN SPORT XTRA 03 FHD
-http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1806543
-
 #EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORT XTRA 1 HD" tvg-logo="http://103.176.90.154/picons/logos/bein/1806542.png" group-title="BEE| BEIN SPORTS",AR| BEIN SPORT XTRA 1 HD
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1806542
 
@@ -169,26 +151,14 @@ http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1832938
 #EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORT AFC FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/1806539.png" group-title="BEE| BEIN SPORTS",AR| BEIN SPORT AFC FHD
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1806539
 
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORT AFC HD" tvg-logo="http://103.176.90.154/picons/logos/bein/1806538.png" group-title="BEE| BEIN SPORTS",AR| BEIN SPORT AFC HD
-http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1806538
-
 #EXTINF:-1 tvg-id="" tvg-name="AR| BEIN AFC 1 FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/1806537.png" group-title="BEE| BEIN SPORTS",AR| BEIN AFC 1 FHD
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1806537
-
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN AFC 1 HD" tvg-logo="http://103.176.90.154/picons/logos/bein/1806536.png" group-title="BEE| BEIN SPORTS",AR| BEIN AFC 1 HD
-http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1806536
 
 #EXTINF:-1 tvg-id="" tvg-name="AR| BEIN AFC 2 FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/1806535.png" group-title="BEE| BEIN SPORTS",AR| BEIN AFC 2 FHD
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1806535
 
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN AFC 2 HD" tvg-logo="http://103.176.90.154/picons/logos/bein/1806534.png" group-title="BEE| BEIN SPORTS",AR| BEIN AFC 2 HD
-http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1806534
-
 #EXTINF:-1 tvg-id="" tvg-name="AR| BEIN AFC 3 FHD" tvg-logo="http://103.176.90.154/picons/logos/bein/1806533.png" group-title="BEE| BEIN SPORTS",AR| BEIN AFC 3 FHD
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1806533
-
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN AFC 3 HD" tvg-logo="http://103.176.90.154/picons/logos/bein/1806532.png" group-title="BEE| BEIN SPORTS",AR| BEIN AFC 3 HD
-http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1806532
 
 #EXTINF:-1 tvg-id="" tvg-name="######  MOROCCO HD #######" tvg-logo="http://103.176.90.154/picons/logos/arabic/157573.png" group-title="AR| MOROCCO",######  MOROCCO HD #######
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/157573
@@ -202,12 +172,6 @@ http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1887444
 #EXTINF:-1 tvg-id="" tvg-name="AR| ARRYADIA 3  HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/1887443.png" group-title="AR| MOROCCO",AR| ARRYADIA 3  HD
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1887443
 
-#EXTINF:-1 tvg-id="AlAoula.ma" tvg-name="AR| Al AOULA INTER SD" tvg-logo="http://103.176.90.154/picons/logos/arabic/891356.png" group-title="AR| MOROCCO",AR| Al AOULA INTER SD
-http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/891356
-
-#EXTINF:-1 tvg-id="AlAoula.ma" tvg-name="AR| Al AOULA INTER HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/891367.png" group-title="AR| MOROCCO",AR| Al AOULA INTER HD
-http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/891367
-
 #EXTINF:-1 tvg-id="AlAoula.ma" tvg-name="AR| Al AOULA INTER FHD" tvg-logo="http://103.176.90.154/picons/logos/arabic/7625.png" group-title="AR| MOROCCO",AR| Al AOULA INTER FHD
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/7625
 
@@ -220,23 +184,11 @@ http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/208315
 #EXTINF:-1 tvg-id="" tvg-name="AR| ARRIADIA TNT HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/969051.png" group-title="AR| MOROCCO",AR| ARRIADIA TNT HD
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/969051
 
-#EXTINF:-1 tvg-id="Arryadia.ma" tvg-name="AR| ARRYADIA LIVE SD" tvg-logo="http://103.176.90.154/picons/logos/arabic/891355.png" group-title="AR| MOROCCO",AR| ARRYADIA LIVE SD
-http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/891355
-
-#EXTINF:-1 tvg-id="Arryadia.ma" tvg-name="AR| ARRYADIA LIVE HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/7624.png" group-title="AR| MOROCCO",AR| ARRYADIA LIVE HD
-http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/7624
-
 #EXTINF:-1 tvg-id="Arryadia.ma" tvg-name="AR| ARRYADIA LIVE FHD" tvg-logo="http://103.176.90.154/picons/logos/arabic/157576.png" group-title="AR| MOROCCO",AR| ARRYADIA LIVE FHD
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/157576
 
 #EXTINF:-1 tvg-id="" tvg-name="AR| ARRYADIA OLYMPICS FHD" tvg-logo="http://103.176.90.154/picons/logos/arabic/1592016.png" group-title="AR| MOROCCO",AR| ARRYADIA OLYMPICS FHD
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1592016
-
-#EXTINF:-1 tvg-id="" tvg-name="AR| ARRYADIA OLYMPICS HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/1592017.png" group-title="AR| MOROCCO",AR| ARRYADIA OLYMPICS HD
-http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1592017
-
-#EXTINF:-1 tvg-id="" tvg-name="AR| ARRYADIA OLYMPICS LQ" tvg-logo="http://103.176.90.154/picons/logos/arabic/1592015.png" group-title="AR| MOROCCO",AR| ARRYADIA OLYMPICS LQ
-http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1592015
 
 #EXTINF:-1 tvg-id="arrabia.ma" tvg-name="AR| ARRABIAA HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/7623.png" group-title="AR| MOROCCO",AR| ARRABIAA HD
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/7623
@@ -273,9 +225,6 @@ http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/158825
 
 #EXTINF:-1 tvg-id="MBC5.ae" tvg-name="AR| MBC 5 FHD" tvg-logo="http://103.176.90.154/picons/logos/arabic/191165.png" group-title="AR| MOROCCO",AR| MBC 5 FHD
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/191165
-
-#EXTINF:-1 tvg-id="MBC5.ae" tvg-name="AR| MBC 5" tvg-logo="http://103.176.90.154/picons/logos/arabic/135184.png" group-title="AR| MOROCCO",AR| MBC 5
-http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/135184
 
 #EXTINF:-1 tvg-id="" tvg-name="AR| FORJA TV" tvg-logo="http://103.176.90.154/picons/logos/arabic/1636052.png" group-title="AR| MOROCCO",AR| FORJA TV
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1636052
