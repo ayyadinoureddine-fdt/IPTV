@@ -237,9 +237,6 @@ http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1141553
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1141562
 
 
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="######  MOROCCO HD #######" tvg-logo="http://103.176.90.154/picons/logos/arabic/157573.png" group-title="AR| MOROCCO",######  MOROCCO HD #######
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/157573
 
@@ -377,6 +374,7 @@ http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/6720
 
 #EXTINF:-1 tvg-id="" tvg-name="AR| TV5 MAGHREB" tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/TV5MAGHREB.png" group-title="AR| ALGERIA",AR| TV5 MAGHREB
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/8167
+
 
 #EXTINF:-1 tvg-id="" tvg-name="##### MBC/ROTANA #####" tvg-logo="" group-title="AR| MBC/ROTANA",##### MBC/ROTANA #####
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/812535
@@ -665,43 +663,33 @@ http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/925278
 
 #EXTINF:-1 tvg-id="" tvg-name="OSN| NOW FHD" tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/NOW.png" group-title="AR| OSN",OSN| NOW FHD
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/925273
-
 #EXTINF:-1 tvg-id="" tvg-name="OSN| MEZZE FHD" tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/MEZZE.png" group-title="AR| OSN",OSN| MEZZE FHD
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/925272
-
 #EXTINF:-1 tvg-id="" tvg-name="OSN| NEWS FHD" tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/NEWS.png" group-title="AR| OSN",OSN| NEWS FHD
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/925265
-
 #EXTINF:-1 tvg-id="" tvg-name="OSN| TLC FHD" tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/TLC.png" group-title="AR| OSN",OSN| TLC FHD
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/925256
 
+
 #EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 1 4K" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="AR| ALWAN",AR| ALWAN SPORT 1 4K
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1859098
-
 #EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 2 4K" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="AR| ALWAN",AR| ALWAN SPORT 2 4K
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1859097
-
 #EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 3 4K" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="AR| ALWAN",AR| ALWAN SPORT 3 4K
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1859096
-
 #EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 4 4K" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="AR| ALWAN",AR| ALWAN SPORT 4 4K
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1859095
-
 #EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 5 4K" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="AR| ALWAN",AR| ALWAN SPORT 5 4K
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1859094
-
 #EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 6 4K" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="AR| ALWAN",AR| ALWAN SPORT 6 4K
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1859093
 
 #EXTINF:-1 tvg-id="" tvg-name="AR| THAMANYA 1 SPORT 4K" tvg-logo="http://103.176.90.154/picons/logos/arabic/1936356.png" group-title="AR| THMANYAH",AR| THAMANYA 1 SPORT 4K
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1936356
-
 #EXTINF:-1 tvg-id="" tvg-name="AR| THAMANYA 2 SPORT 4K" tvg-logo="http://103.176.90.154/picons/logos/arabic/1936355.png" group-title="AR| THMANYAH",AR| THAMANYA 2 SPORT 4K
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1936355
-
 #EXTINF:-1 tvg-id="" tvg-name="AR| THAMANYA 3 SPORT 4K" tvg-logo="http://103.176.90.154/picons/logos/arabic/1936354.png" group-title="AR| THMANYAH",AR| THAMANYA 3 SPORT 4K
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1936354
-
 #EXTINF:-1 tvg-id="" tvg-name="AR| THMANYAH 4 FHD" tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/THMANYAH.png" group-title="AR| THMANYAH VIP",AR| THMANYAH 4 FHD
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/2179729
 
