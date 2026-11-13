@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST:Popular Morocco IPTV - CODECS.COM
 
-#EXTINF:-1 tvg-id="" tvg-name="AR| EDDAI M ED ARRYADIA 1 HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/1887445.png" group-title="AR| MOROCCO",AR| ARRYADIA 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR| EDDAI MED ARRYADIA 1 HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/1887445.png" group-title="AR| MOROCCO",AR| ARRYADIA 1 HD
 http://line.trxdnscloud.ru:80/c1e29e6d66/b33374200661/1887445
 
 #EXTINF:-1 tvg-id="" tvg-name="AR| ARRYADIA 2 HD" tvg-logo="http://103.176.90.154/picons/logos/arabic/1887444.png" group-title="AR| MOROCCO",AR| ARRYADIA 2 HD
